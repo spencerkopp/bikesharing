@@ -1,7 +1,7 @@
 # bikesharing
 
 ## Overview
-The purpose of this project is to use 2019 data from CitiBike in New York City to answer questions about who uses these services. Insights from data visualization could be applied to starting a similar bikesharing program located in Des Moines, Iowa. Jupyter Notebook and the Pandas library are used to convert the tripduration column to datetime data type, and export the dataframe into a new csv which is to be used with Tableau to create visualizations. 
+The purpose of this project is to use 2019 data from CitiBike in New York City to answer questions about who uses these services. Insights from data visualization could be applied to starting a similar bikesharing program located in Des Moines, Iowa. Jupyter Notebook and the Pandas library are used to convert the tripduration column to datetime data type, and export the dataframe into a new csv which is to be used with Tableau to create visualizations. The resulting Tableau visualizations are tied into a story which is linked at the bottom of this page. 
 ## Results
 ### Checkout Times for Users
 
