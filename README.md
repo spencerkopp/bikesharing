@@ -6,14 +6,17 @@ The purpose of this project is to use 2019 data from CitiBike in New York City t
 ### Checkout Times for Users
 
 <img width="542" alt="checkout_times" src="https://user-images.githubusercontent.com/107224097/192395893-e7012bb2-4cdf-4dbd-9cc6-bddab83e81fc.PNG">
+This visualization shows that the majority of trips are short, often less than 10 minutes. 
 
 ### Checkout Times by Gender
 
 <img width="541" alt="checkouttimesbygender" src="https://user-images.githubusercontent.com/107224097/192395926-a76bdee7-ddcd-44f9-bfef-cf7bf424d050.PNG">
+This visualization again shows that the majority of trips are relatively short. When breaking down trip duration by gender, there is no significant difference in trip duration shown. 
 
 ### Trips by Weekday for Each Hour
 
 <img width="527" alt="tripsperweekdaybyhour" src="https://user-images.githubusercontent.com/107224097/192395966-640aa08c-634a-4c81-ad23-f60caa2a1710.PNG">
+Monday and Thursday appear to be especially popular. The hours between 6 a.m. and 9 a.m., as well as the hours between 5 p.m. and 6 p.m. also appear to be especially popular. This suggests that these bikes are used more frequently for transportation to and from work. There is a slight increase later in the day Saturday, from 11 a.m. to 7 p.m., but this increase does not come close to the ride frequency in the morning and evening on week days. 
 
 ### Trips by Gender (Weekday per Hour)
 
@@ -30,6 +33,7 @@ The purpose of this project is to use 2019 data from CitiBike in New York City t
 ### Trips by Weekday and Gender
 
 <img width="537" alt="gendercustomerweekday" src="https://user-images.githubusercontent.com/107224097/192396921-6e2f3d26-3ba7-488e-8eed-dd91950b46d8.PNG">
+Monday, Thursday, and Friday again appear to be the most popular days for trips for both male and female genders. 
 
 ## Summary
 The trips by customer type visualization makes it clear that the vast majority of CitiBike users are subscribers as opposed to one-time customers. Roughly 19% of CitiBike trips for this month are accounted for by one-time customers. With this dataset, additional visualizations could be performed; such as comparing trip starting locations to trip ending locations, or identifying the most used bike ID's so that they could be inspected or repaired.
