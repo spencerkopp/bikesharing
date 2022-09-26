@@ -23,9 +23,13 @@
 
 <img width="522" alt="customertype" src="https://user-images.githubusercontent.com/107224097/192396100-ee22a01c-983e-49e6-90eb-0a6e2bbe6d43.PNG">
 
-### Trips by starting location
+### Trips by Starting Location
 
 <img width="544" alt="startinglocations" src="https://user-images.githubusercontent.com/107224097/192396134-c4cccd0f-7329-4749-a283-140dddbd2b15.PNG">
+
+### Trips by Weekday and Gender
+
+<img width="537" alt="gendercustomerweekday" src="https://user-images.githubusercontent.com/107224097/192396921-6e2f3d26-3ba7-488e-8eed-dd91950b46d8.PNG">
 
 ## Summary
 
