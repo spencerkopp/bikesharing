@@ -11,7 +11,6 @@
 <img width="527" alt="tripsperweekdaybyhour" src="https://user-images.githubusercontent.com/107224097/192395966-640aa08c-634a-4c81-ad23-f60caa2a1710.PNG">
 ### Trips by Gender (Weekday per Hour)
 <img width="541" alt="tripsbygenderwdhr" src="https://user-images.githubusercontent.com/107224097/192396011-b6a78f45-2cfc-4e5a-a752-7a71f44b4a32.PNG">
-### User Trips by Gender
 ### Trips by Customer Type
 <img width="522" alt="customertype" src="https://user-images.githubusercontent.com/107224097/192396100-ee22a01c-983e-49e6-90eb-0a6e2bbe6d43.PNG">
 ### Trips by starting location
