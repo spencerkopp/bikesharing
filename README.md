@@ -32,5 +32,6 @@ The purpose of this project is to use 2019 data from CitiBike in New York City t
 <img width="537" alt="gendercustomerweekday" src="https://user-images.githubusercontent.com/107224097/192396921-6e2f3d26-3ba7-488e-8eed-dd91950b46d8.PNG">
 
 ## Summary
+The trips by customer type visualization makes it clear that the vast majority of CitiBike users are subscribers as opposed to one-time customers. Roughly 19% of CitiBike trips for this month are accounted for by one-time customers. 
 
 [link to dashboard](https://public.tableau.com/app/profile/spencer.kopp/viz/BikeSharing_16642286476750/Story1?publish=yes)
