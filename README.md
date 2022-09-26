@@ -21,14 +21,17 @@ Monday and Thursday appear to be especially popular. The hours between 6 a.m. an
 ### Trips by Gender (Weekday per Hour)
 
 <img width="541" alt="tripsbygenderwdhr" src="https://user-images.githubusercontent.com/107224097/192396011-b6a78f45-2cfc-4e5a-a752-7a71f44b4a32.PNG">
+This shows a similar pattern to trips by weekday for each hour. 
 
 ### Trips by Customer Type
 
 <img width="522" alt="customertype" src="https://user-images.githubusercontent.com/107224097/192396100-ee22a01c-983e-49e6-90eb-0a6e2bbe6d43.PNG">
+Most of the trips customers take are from subscribers rather than one-time customers.
 
 ### Trips by Starting Location
 
 <img width="544" alt="startinglocations" src="https://user-images.githubusercontent.com/107224097/192396134-c4cccd0f-7329-4749-a283-140dddbd2b15.PNG">
+This shows the most popular starting locations by both size and color of the markers. 
 
 ### Trips by Weekday and Gender
 
